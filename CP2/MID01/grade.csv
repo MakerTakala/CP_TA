@@ -1,0 +1,100 @@
+40541105S,23,WRONG: T7 
+40921135L,25,WRONG: 
+40942101S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+40942127S,21,WRONG: T7 T8 
+40947015S,0,No file or compile fail or segmentation fault
+40947017S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+40947044S,0,No file or compile fail or segmentation fault
+40947049S,7,WRONG: T0 T1 T3 T4 T5 T6 
+40971218H,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 
+40971230H,8,WRONG: T0 T1 T3 T4 T5 T7 
+40973006H,23,WRONG: T7 
+40973008H,0,No file or compile fail or segmentation fault
+40973011H,0,No file or compile fail or segmentation fault
+41041228S,0,No file or compile fail or segmentation fault
+41044028S,6,WRONG: T0 T1 T3 T4 T5 T7 T8 
+41047001S,0,No file or compile fail or segmentation fault
+41047012S,23,WRONG: T7
+41047015S,0,No file or compile fail or segmentation fault
+41047019S,0,No file or compile fail or segmentation fault
+41047021S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41047024S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41047034S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41047901S,17,WRONG: T5 T6 T7 
+41071110H,0,No file or compile fail or segmentation fault
+41077005H,0,No file or compile fail or segmentation fault
+41147002S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8
+41147003S,0,No file or compile fail or segmentation fault
+41147011S,21,WRONG: T7 T8 
+41147014S,23,WRONG: T7 
+41147016S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41147020S,0,No file or compile fail or segmentation fault
+41147023S,0,No file or compile fail or segmentation fault
+41147026S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41147029S,0,No file or compile fail or segmentation fault
+41147031S,0,No file or compile fail or segmentation fault
+41147032S,0,No file or compile fail or segmentation fault
+41147038S,0,No file or compile fail or segmentation fault
+41147039S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41147044S,0,No file or compile fail or segmentation fault
+41147046S,0,No file or compile fail or segmentation fault
+41147047S,0,No file or compile fail or segmentation fault
+41147054S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41147057S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41157013O,0,No file or compile fail or segmentation fault
+41168034T,0,No file or compile fail or segmentation fault
+41171102H,0,No file or compile fail or segmentation fault
+41171114H,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41171119H,12,WRONG: T0 T1 T4 T7 T8 
+41171122H,0,No file or compile fail or segmentation fault
+41171123H,21,WRONG: T7 T8 
+41171207H,0,No file or compile fail or segmentation fault
+41171212H,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41171214H,23,WRONG: T7 
+41171216H,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41172005H,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41211003E,0,No file or compile fail or segmentation fault
+41211901E,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247001S,15,WRONG: T5 T6 T7 T8 
+41247002S,0,No file or compile fail or segmentation fault
+41247003S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41247004S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 
+41247006S,0,No file or compile fail or segmentation fault
+41247008S,0,No file or compile fail or segmentation fault
+41247009S,0,No file or compile fail or segmentation fault
+41247010S,0,No file or compile fail or segmentation fault
+41247012S,23,WRONG: T7 
+41247014S,0,No file or compile fail or segmentation fault
+41247015S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41247016S,0,No file or compile fail or segmentation fault
+41247018S,0,No file or compile fail or segmentation fault
+41247020S,23,WRONG: T7 
+41247022S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247024S,6,WRONG: T1 T3 T4 T5 T6 T7 T8 
+41247026S,0,No file or compile fail or segmentation fault
+41247027S,8,WRONG: T1 T2 T4 T5 T6 T8 
+41247031S,0,No file or compile fail or segmentation fault
+41247032S,17,WRONG: T5 T6 T7 
+41247033S,0,No file or compile fail or segmentation fault
+41247034S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247036S,0,No file or compile fail or segmentation fault
+41247037S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41247039S,15,WRONG: T5 T6 T7 T8 
+41247042S,15,WRONG: T5 T6 T7 T8 
+41247045S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247046S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247048S,0,No file or compile fail or segmentation fault
+41247049S,0,No file or compile fail or segmentation fault
+41247050S,6,WRONG: T0 T1 T3 T4 T5 T7 T8 
+41247051S,0,No file or compile fail or segmentation fault
+41247053S,3,WRONG: T1 T2 T3 T4 T5 T6 T7 T8 
+41247054S,0,No file or compile fail or segmentation fault
+41247055S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+41247057S,2,WRONG: T0 T1 T2 T3 T4 T5 T6 T8 
+41247061S,4,WRONG: T0 T1 T2 T3 T4 T5 T6 
+41247062S,0,No file or compile fail or segmentation fault
+41247063S,0,No file or compile fail or segmentation fault
+41247066S,0,No file or compile fail or segmentation fault
+41247901S,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+81170005H,0,WRONG: T0 T1 T2 T3 T4 T5 T6 T7 T8 
+

@@ -1,0 +1,100 @@
+40541105S,1,Wrong testcase: 2 3 4 5 6 7 8 9 10 
+40921135L,0,No file or compile fail Recompile: 0 Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+40942101S,6,Wrong testcase: 1 2 3 4 5 6 
+40942127S,0,No file or compile fail
+40947015S,0,Duplicate output
+40947017S,0,Duplicate output
+40947044S,0,No file or compile fail
+40947049S,0,No file or compile fail
+40971218H,14,Wrong testcase: 
+40971230H,14,Wrong testcase: 
+40973006H,1,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+40973008H,20,Wrong testcase: 
+40973011H,20,Wrong testcase: 
+41041228S,12,Wrong testcase: 7 8 9 10 
+41044028S,18,Wrong testcase: 
+41047001S,7,No file or compile fail Recompile: 14
+41047012S,9,No file or compile fail Recompile: 18
+41047015S,0,No file or compile fail
+41047019S,0,No file or compile fail
+41047021S,0,No file or compile fail
+41047024S,0,No file or compile fail
+41047034S,0,No file or compile fail
+41047901S,19,Wrong testcase: 10 
+41071110H,0,No file or compile fail
+41077005H,0,No file or compile fail
+41147002S,20,Wrong testcase: 
+41147003S,0,No file or compile fail
+41147011S,17,Wrong testcase: 2 
+41147014S,11,Wrong testcase: 1 2 3 4 5 6 10 
+41147016S,17,Wrong testcase: 
+41147020S,0,No file or compile fail
+41147023S,0,No file or compile fail
+41147026S,17,Wrong testcase: 2 
+41147029S,0,No file or compile fail
+41147031S,0,No file or compile fail
+41147032S,10,Wrong testcase: 3 5 6 
+41147038S,0,No file or compile fail
+41147039S,0,No file or compile fail
+41147044S,16,Wrong testcase: 2 9 10 
+41147046S,0,Duplicate output
+41147047S,0,No file or compile fail
+41147054S,0,Infinitive loop
+41147054S,0,Duplicate output
+41147057S,0,No file or compile fail
+41157013O,0,No file or compile fail
+41168034T,0,No file or compile fail
+41171102H,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41171114H,6,Wrong testcase: 1 2 3 4 5 6 
+41171119H,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41171122H,0,No file or compile fail
+41171123H,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41171207H,0,No file or compile fail
+41171212H,17,Wrong testcase: 2 
+41171214H,0,No file or compile fail
+41171216H,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41172005H,1,Wrong testcase: 2 3 4 5 6 7 8 9 10 
+41211003E,0,No file or compile fail
+41211901E,12,Wrong testcase: 3 5 6 
+41247001S,4,Wrong testcase: 3 4 5 6 7 8 9 10 
+41247002S,0,No file or compile fail
+41247003S,18,Wrong testcase: 
+41247004S,20,Wrong testcase: 
+41247006S,16,Wrong testcase: 
+41247008S,0,No file or compile fail
+41247009S,0,No file or compile fail
+41247010S,0,No file or compile fail
+41247012S,16,Wrong testcase: 9 10 
+41247014S,18,Wrong testcase: 5 6 
+41247015S,11,Wrong testcase: 2 3 5 6 
+41247016S,0,No file or compile fail
+41247018S,20,Wrong testcase: 
+41247020S,0,No file or compile fail
+41247022S,18,Wrong testcase: 2 10 
+41247024S,4,Wrong testcase: 3 4 5 6 7 8 9 10 
+41247026S,0,No file or compile fail
+41247027S,0,Duplicate output
+41247031S,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41247032S,1,Wrong testcase: 2 3 4 5 6 7 8 9 10 
+41247033S,0,No file or compile fail
+41247034S,0,No file or compile fail
+41247036S,0,Duplicate output
+41247037S,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41247039S,20,Wrong testcase: 
+41247042S,0,Duplicate output
+41247045S,20,Wrong testcase: 
+41247046S,0,No file or compile fail
+41247048S,20,Wrong testcase: 
+41247049S,0,No file or compile fail
+41247050S,14,Wrong testcase: 1 2 4 5 6 
+41247051S,0,No file or compile fail
+41247053S,7,Wrong testcase: 4 5 6 7 8 9 10 
+41247054S,0,Wrong testcase: 1 2 3 4 5 6 7 8 9 10 
+41247055S,0,No file or compile fail
+41247057S,16,Wrong testcase: 2 10 
+41247061S,0,Duplicate output
+41247062S,19,Wrong testcase: 10 
+41247063S,0,No file or compile fail
+41247066S,17,Wrong testcase: 10 
+41247901S,0,Wrong testcase: 2 3 4 5 6 7 8 9 10 
+81170005H,17,Wrong testcase: 3 9 10 

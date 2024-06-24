@@ -1,0 +1,99 @@
+40541105S,19,There're some space at right of image (-1)
+40921135L,8,example case(+3) line conitnues(+5)
+40942101S,0,No output file
+40942127S,0,No file or compile fail or segmentation fault
+40947015S,0,No file or compile fail or segmentation fault
+40947017S,0,No file or compile fail or segmentation fault
+40947044S,0,No file or compile fail or segmentation fault
+40947049S,0,No file or compile fail or segmentation fault
+40971218H,0,retest
+40971230H,0,what unknown error?
+40973006H,0,Wrong image
+40973008H,20,Good
+40973011H,20,Good
+41041228S,0,No file or compile fail or segmentation fault
+41044028S,0,Time Limited Exceeded
+41047001S,15,wrong width(-3) wrong gradient(-2)
+41047012S,15,wrong test case(-5)
+41047015S,0,No file or compile fail or segmentation fault
+41047019S,0,Show wrong usage
+41047021S,0,No file or compile fail or segmentation fault
+41047024S,0,No file or compile fail or segmentation fault
+41047034S,7,line corssover correct(+2) lien width correct(+3) line gradient correct(+2)
+41047901S,0,do not show the image and test case is TLE
+41071110H,0,No file or compile fail or segmentation fault
+41077005H,0,No file or compile fail or segmentation fault
+41147002S,12,test case line is wrong(-5) no gradient(-2) There're some space at right of image (-1) 
+41147003S,0,No file or compile fail or segmentation fault
+41147011S,0,image can't open
+41147014S,0,No file or compile fail or segmentation fault
+41147016S,0,No file or compile fail or segmentation fault
+41147020S,0,program show File could not be opened!
+41147023S,0,No file or compile fail or segmentation fault
+41147026S,5,example line shape is caorrec(+3) crossover color correc(+2)
+41147029S,17,the width of line is not constant
+41147031S,0,No file or compile fail or segmentation fault
+41147032S,0,not generate image
+41147038S,2,line corssover is correct(+2)
+41147039S,0,No file or compile fail or segmentation fault
+41147044S,0,No file or compile fail or segmentation fault
+41147046S,0,No file or compile fail or segmentation fault
+41147047S,10,test case line is wrong(-5) width of line is wrong(-3) no gradient(-2)
+41147054S,0,No file or compile fail or segmentation fault
+41147057S,0,No file or compile fail or segmentation fault
+41157013O,0,Time Limited Exceeded
+41168034T,0,No file or compile fail or segmentation fault
+41171102H,11,example case line correct(+3) line continuous(+5) width correct(+3)
+41171114H,0,generate wrong image
+41171119H,13,test case line shape is correct(+5) line continuous(+5) line width correct(+3)
+41171122H,0,No file or compile fail or segmentation fault
+41171123H,13,test case line shape is wrong(-5) no gradient(-2)
+41171207H,0,No file or compile fail or segmentation fault
+41171212H,18,no gradient(-2)
+41171214H,3,example case line shape is correct(+3)
+41171216H,12,test case line shape is wrong(-5) no gradient(-2) There're some space at right of image (-1)
+41172005H,0,wrong image
+41211003E,0,wrong image
+41211901E,20,good
+41247001S,0,Time Limited Exceeded
+41247002S,0,No file or compile fail or segmentation fault
+41247003S,16,example case line shape is wrong(-3) There're some space at right of image (-1)
+41247004S,7,line crossover correct(+2) line continuous(+5)
+41247006S,8,test case image not generate(-5) width no correct(-3) no gradient(-2) blue and green color are wrong(-2)
+41247008S,0,No file or compile fail or segmentation fault
+41247009S,0,No file or compile fail or segmentation fault
+41247010S,0,No file or compile fail or segmentation fault
+41247012S,0,No file or compile fail or segmentation fault
+41247014S,15,test case line shape is wrong(-5)
+41247015S,19,The image in right part seem weird(-1)
+41247016S,0,No file or compile fail or segmentation fault
+41247018S,15,test case line shape is wrong(-5)
+41247020S,0,No file or compile fail or segmentation fault
+41247022S,0,No file or compile fail or segmentation fault
+41247024S,0,Time Limited Exceeded
+41247026S,0,No file or compile fail or segmentation fault
+41247027S,20,Good
+41247031S,0,No file or compile fail or segmentation fault
+41247032S,0,Can't open image
+41247033S,0,No file or compile fail or segmentation fault
+41247034S,15,test case line shape is wrong(-5)
+41247036S,0,No file or compile fail or segmentation fault
+41247037S,0,wrong image
+41247039S,0,Time Limited Exceeded
+41247042S,8,test case line shape is wrong(-5) line corssover is wrong(-2) line width is not constant(-3) no gradient(-2)
+41247045S,0,segmentation fault
+41247046S,0,wrong image
+41247048S,11,example case line shape correct(+3) line continuous(+5) crossover correct(+2) gradient(+2) there's weird in right of image(-1)
+41247049S,0,No file or compile fail or segmentation fault
+41247050S,0,No file or compile fail or segmentation fault
+41247051S,0,No file or compile fail or segmentation fault
+41247053S,0,no image
+41247054S,0,No file or compile fail or segmentation fault
+41247055S,15,test case line shape is wrong(-5)
+41247057S,3,example case line shape is correct(+3)
+41247061S,12,test case line shape si correct(+5) crossover line correct(+2) line continuous(+5)
+41247062S,19,There're some space at right of image (-1)
+41247063S,0,No file or compile fail or segmentation fault
+41247066S,15,test case line shape is wrong(-5)
+41247901S,0,No file or compile fail or segmentation fault
+81170005H,0,no output image

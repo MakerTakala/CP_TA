@@ -1,0 +1,99 @@
+40541105S,27,One piece use same color with background(-1) error case not show error(-2)
+40921135L,15,Wrong pie chart(-13) error case(-2)
+40942101S,30,Good!
+40942127S,13,Correct number(+13)
+40947015S,0,No file or compile fail or segmentation fault
+40947017S,0,No file or compile fail or segmentation fault
+40947044S,0,No file or compile fail or segmentation fault
+40947049S,15,Correct number(+13) correct help(+2)
+40971218H,2,segementation fault Correct help(+2)
+40971230H,2,Correct help(+2)
+40973006H,0,No file or compile fail or segmentation fault
+40973008H,30,Good!
+40973011H,0,No file or compile fail or segmentation fault
+41041228S,0,No file or compile fail or segmentation fault
+41044028S,30,Good!
+41047001S,0,No file or compile fail or segmentation fault
+41047012S,17,No pie chart(-13)
+41047015S,0,No file or compile fail or segmentation fault
+41047019S,0,No file or compile fail or segmentation fault
+41047021S,30,Good!
+41047024S,0,No file or compile fail or segmentation fault
+41047034S,30,Good
+41047901S,0,No file or compile fail or segmentation fault
+41071110H,0,No file or compile fail or segmentation fault
+41077005H,0,No file or compile fail or segmentation fault
+41147002S,0,No file or compile fail or segmentation fault
+41147003S,0,No file or compile fail or segmentation fault
+41147011S,0,No file or compile fail or segmentation fault
+41147014S,2,Correct help(+2)
+41147016S,2,Correct help(+2)
+41147020S,0,No reuslt
+41147023S,0,No file or compile fail or segmentation fault
+41147026S,0,No file or compile fail or segmentation fault
+41147029S,15,Correct number(+13) Correct help(+2)
+41147031S,0,No file or compile fail or segmentation fault
+41147032S,0,No file or compile fail or segmentation fault
+41147038S,2,Correct help(+2)
+41147039S,0,No file or compile fail or segmentation fault
+41147044S,0,No file or compile fail or segmentation fault
+41147046S,0,No file or compile fail or segmentation fault
+41147047S,30,Good!
+41147054S,4,Correct help(+2) error case(+2)
+41147057S,0,No file or compile fail or segmentation fault
+41157013O,2,segmentation fault Correct help(+2)
+41168034T,0,No file or compile fail or segmentation fault
+41171102H,0,No file or compile fail or segmentation fault
+41171114H,0,No result
+41171119H,26,No help(-2) Wrong error case(-2)
+41171122H,0,No file or compile fail or segmentation fault
+41171123H,26,No help(-2) Wrong error case(-2)
+41171207H,0,No file or compile fail or segmentation fault
+41171212H,26,No help(-2) Wrong error case(-2)
+41171214H,30,Good!
+41171216H,2,Correct help(+2)
+41172005H,2,Correct help(+2)
+41211003E,28,Wrong error case(-2)
+41211901E,26,No help(-2) Wrong error case(-2)
+41247001S,30,Good
+41247002S,0,No file or compile fail or segmentation fault
+41247003S,30,Good!
+41247004S,30,Good!
+41247006S,0,No file or compile fail or segmentation fault
+41247008S,0,No file or compile fail or segmentation fault
+41247009S,0,No file or compile fail or segmentation fault
+41247010S,0,No file or compile fail or segmentation fault
+41247012S,30,Good!
+41247014S,28,Wrong error case(-2)
+41247015S,30,Good!
+41247016S,0,No file or compile fail or segmentation fault
+41247018S,28,Wrong error case(-2)
+41247020S,0,No file or compile fail or segmentation fault
+41247022S,0,No result
+41247024S,28,Wrong error case(-2)
+41247026S,0,No file or compile fail or segmentation fault
+41247027S,30,Good!
+41247031S,0,No file or compile fail or segmentation fault
+41247032S,30,Good!
+41247033S,0,No file or compile fail or segmentation fault
+41247034S,0,No file or compile fail or segmentation fault
+41247036S,30,Good!
+41247037S,0,No file or compile fail or segmentation fault
+41247039S,28,Wrong error case(-2)
+41247042S,10,Correct example case(+10)
+41247045S,2,Correct help(+2)
+41247046S,0,Failed to download scoreboard data.
+41247048S,30,Good!
+41247049S,2,Correct help(+2)
+41247050S,0,No file or compile fail or segmentation fault
+41247051S,0,No file or compile fail or segmentation fault
+41247053S,0,No file or compile fail or segmentation fault
+41247054S,0,No file or compile fail or segmentation fault
+41247055S,30,Good!
+41247057S,15,Correct number(+13) Correct help(+2)
+41247061S,0,No file or compile fail or segmentation fault
+41247062S,0,No file or compile fail or segmentation fault
+41247063S,0,No file or compile fail or segmentation fault
+41247066S,28,Wrong error case(-2)
+41247901S,0,No result
+81170005H,30,Good!
